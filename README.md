@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Carlos Marino Crovara</h1>
-<h3 align="center">👨‍💻 Social Media Manager | FullStack Developer</h3>
+<h3 align="center">👨‍💻 FullStack Developer</h3>
 
 - 📫 Mi mail **carloscrovara@gmail.com**
 
