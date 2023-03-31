@@ -1,9 +1,14 @@
 <h1 align="center">👋 Hola, soy Carlos Marino Crovara</h1>
 <h3 align="center">👨‍💻 FullStack Developer</h3>
 
-- 📫 Mi mail **carloscrovara@gmail.com**
-
-- 📄 Mi web [https://carloscrovara.com/](https://carloscrovara.com/)
+<div align="center">
+<a href="https://linkedin.com/in/carloscrovara" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:carloscrovara@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <h3 align="left">Redes Sociales:</h3>
 <p align="left">
