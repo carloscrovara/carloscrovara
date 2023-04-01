@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
-<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40" />
