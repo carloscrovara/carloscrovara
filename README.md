@@ -35,6 +35,6 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="40" />
 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" height="40" />
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> 
 </div>
