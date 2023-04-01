@@ -23,7 +23,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" height="40"/>
