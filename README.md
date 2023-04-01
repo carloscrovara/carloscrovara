@@ -14,7 +14,7 @@
 <div align="center"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
-    
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
 <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
