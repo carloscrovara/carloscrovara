@@ -12,7 +12,7 @@
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
 <div align="center"> 
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" title="PHP" alt="PHP" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" title="PHP" alt="PHP" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" title="Symfony "alt="Symfony" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React & React Native" alt="React & React Native" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node" alt="Node" height="40"/> 
