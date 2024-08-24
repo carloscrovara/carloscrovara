@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
+<h3 align="center">Lenguajes, Frameworks y Herramientas:</h3>
 <div align="center"> 
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" title="PHP" alt="PHP" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" title="Symfony "alt="Symfony" height="40"/>
